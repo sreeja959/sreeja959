@@ -44,7 +44,32 @@
 
 <br>
 <br>
+<h2 align="center">🚀 Featured Projects</h2>
 
+### 📄  `InsightRAG`
+> **AI-powered Retrieval-Augmented Generation (RAG) system for intelligent PDF understanding.**
+
+- 🔍 Multimodal document analysis (Text + Images)
+- 🤖 Context-aware question answering using LLMs
+- ⚡ Built with FastAPI, Hugging Face, FAISS & Groq
+
+---
+
+### 🎨 `BrandCraft`
+> **AI platform that generates brand identities using Generative AI.**
+
+- 🎯 Generates logos, slogans and branding ideas
+- 💡 Interactive and user-friendly interface
+- 🚀 Built using React, FastAPI and LLMs
+
+---
+
+### 📊 `Customer Churn Prediction`
+> **Machine Learning model to predict customer churn.**
+
+- 📈 Data preprocessing and feature engineering
+- 🤖 Classification using ML algorithms
+- 📊 Performance evaluation with accuracy metrics
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
