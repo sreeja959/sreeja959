@@ -29,3 +29,14 @@
 </div>
 
 <br>
+<br>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,aws&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode,react&theme=dark" />
+</p>
