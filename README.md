@@ -58,3 +58,10 @@
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sreeja959&theme=tokyo-night&hide_border=true"/>
 
 </div>
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sreeja959&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/></p>
+
+<br>
+
