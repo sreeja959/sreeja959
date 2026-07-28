@@ -40,3 +40,21 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,vscode,react&theme=dark" />
 </p>
+<br>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sreeja959&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sreeja959&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sreeja959&theme=tokyo-night&hide_border=true"/>
+
+</div>
