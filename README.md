@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Sreeja&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20|%20Data%20Analytics%20|%20Software%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Sreeja&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Aspiring%20AI%20Engineer%20|%20Data%20Analytics%20|%20Software%20Developer&descAlignY=60"/>
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A855F7&size=28&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Sreeja;AI+Engineer;Data+Analytics+Enthusiast;Software+Developer;Always+Learning+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A855F7&size=28&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Sreeja;Aspiring+AI+Engineer;Data+Analytics+Enthusiast;Software+Developer;Always+Learning+🚀)](https://git.io/typing-svg)
 
 </div>
 <p align="center">
@@ -64,12 +64,13 @@
 
 ---
 
-### 📊 `Customer Churn Prediction`
-> **Machine Learning model to predict customer churn.**
+### 🏋️ `FitTrack-AI`
 
-- 📈 Data preprocessing and feature engineering
-- 🤖 Classification using ML algorithms
-- 📊 Performance evaluation with accuracy metrics
+AI-powered fitness and nutrition tracking application.
+
+- 🥗 AI-based food image recognition
+- 📊 Calorie & nutrition tracking dashboard
+- 🚀 Built with React, Node.js, Express & AI APIs
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
