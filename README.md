@@ -103,7 +103,7 @@ AI-powered fitness and nutrition tracking application.
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=sreeja959&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/></p>
 <br>
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sreeja959/sreeja959/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
